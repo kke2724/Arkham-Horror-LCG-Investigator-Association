@@ -207,7 +207,7 @@ Clyde = Investigator()
 
 tnotz_1120 = Campaign()
 
-
+#Next goal: Need to figure out how to run the class construction once per script run and save user inputs so that it doesn't repeat the process over and over again.
 
 
 
